@@ -1,0 +1,15 @@
+.kitchen/
+.vagrant/
+Berksfile.lock
+*.lock
+*.swp
+*.bak
+*.tmp
+.DS_Store
+chef/cache/
+chef/cookbooks/
+coverage/
+.kitchen.local.yml
+.kitchen/*.log
+.kitchen/*.yml
+.kitchen/*.json 
